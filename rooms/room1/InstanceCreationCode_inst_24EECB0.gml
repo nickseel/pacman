@@ -1,0 +1,1 @@
+color_index = 1;
